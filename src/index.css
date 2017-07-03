@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-image: url(http://www.publicdomainpictures.net/pictures/70000/velka/old-wood-texture.jpg);
+	overflow-x: hidden;
+}
+
+.header_content {
+	white-space: pre-line;
+	color: #ddd;
+	text-shadow: 2px 1px 11px rgba(0, 0, 0, 1);
+	text-decoration: underline;
+}
